@@ -1,7 +1,20 @@
 # School_District_Analysis
 
 ## Overview
-  The data were given by the school board contained information on schools within the district and student performance for each school. By using jupyter notebooks to clean and analyze the code, we found information that could help the school board make decisions on how to budget for school performance or see if alternatives would be more useful in improving a school.
+  The data were given by the school board contained information on schools within the district and student performance for each school. 
+  By using jupyter notebooks to clean and analyze the code, we found information that could help the school board make decisions on how to budget for school performance or see if alternatives would be more useful in improving a school.
   
-## Results
+## Results: Using bulleted lists and images of DataFrames as support, address the following questions.
+
+-How is the district summary affected?
+  The district summary looked like the below image when we began. We formatted the data to meet the standards of the school board, ensured the columns were in the correct order, 
+  and once the grades for the 9th graders at Thomas High School were replaced, the district summary was updated, the second image below.
   
+  	
+How is the school summary affected?
+How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
+How does replacing the ninth-grade scores affect the following:
+Math and reading scores by grade
+Scores by school spending
+Scores by school size
+Scores by school type
